@@ -16,3 +16,7 @@ span{
 h1{
     text-decoration: underline;
 }
+
+body{ /*backround image not displaying*/
+    background-image: url('assets/images/mikly-way-2695569_1920.jpg');
+}
